@@ -1,4 +1,3 @@
-```markdown
 # Capital Asset Pricing Model (CAPM) Explained
 
 ## Overview
@@ -151,4 +150,3 @@ This software is provided for educational purposes only. All information and res
 ---
 
 Happy exploring the Capital Asset Pricing Model (CAPM)!
-```
